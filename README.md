@@ -14,7 +14,7 @@ This repo is the clone of [Convert bot](https://telegram.dog/disneyteamconvertbo
 
 
 ## How to create your own bot
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/disneyteam76/tg-convert-bot/tree/patch-1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/disneyteam77/tg-convert-bot/tree/patch-1)
 - 👆 Press the deploy button.
 
 - Give a name to your app.
